@@ -118,3 +118,5 @@ for i in range(1,N+1):
         else:
             result += sellprice - val # 최종 sellprice에서 val값들 뺀거 result에 다 더해 
     print(f'#{i} {result}')
+
+    higi
